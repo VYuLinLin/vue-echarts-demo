@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+  touch-action: manipulation;
+}
+body {
+  font-size: 16px;
+  color: #333333;
+  font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;
+}
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  -webkit-touch-callout: none; // 禁止长按菜单
+  user-select: none; // 默认禁止选择，如果需要长按选择，单独设置元素 user-select: auto;
+}
+ol,
+ul,
+li {
+  list-style: none;
+}
+:focus {
+  outline: 0;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+a:hover,
+a {
+  text-decoration: none;
+}
+a:link { color: #256ef6 }
+img {
+  -webkit-touch-callout: none;
+}
+h1 {
+  font-size: 2.13rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.25rem;
+}
+h4 {
+  font-size: 1rem;
+}
+h5 {
+  font-size: 0.88rem;
+}
