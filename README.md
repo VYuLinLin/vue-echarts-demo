@@ -1,4 +1,4 @@
-# nfjj-big-data-insight
+# vue-echarts-demo
 
 ## Project setup
 ```
