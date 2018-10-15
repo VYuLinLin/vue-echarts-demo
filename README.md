@@ -24,3 +24,5 @@ npm run test
 ```
 npm run lint
 ```
+### demo
+![image](https://github.com/VYuLinLin/vue-echarts-demo/raw/master/src/assets/demo.png)
